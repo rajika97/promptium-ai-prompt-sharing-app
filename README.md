@@ -31,14 +31,14 @@ To run Promptopia locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/promptium.git
+   git clone https://github.com/rajika97/promptium-ai-prompt-sharing-app.git
 
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd promptopia
+   cd promptium-ai-prompt-sharing-app
 
    ```
 
@@ -49,7 +49,7 @@ To run Promptopia locally, follow these steps:
 
    ```
 
-4. Set up environment variables. Create a .env.local file in the root directory and configure your environment variables:
+4. Set up environment variables. Create a .env file in the root directory and configure your environment variables:
 
    ```bash
     GOOGLE_ID=[Your Google ID]
