@@ -22,7 +22,7 @@ const Footer = () => {
       <p>
         Find this project on{" "}
         <a
-          href="https://github.com/rajika97"
+          href="https://github.com/rajika97/promptium-ai-prompt-sharing-app/"
           target="_blank"
           rel="noopener noreferrer"
           className="font-inter blue_gradient cursor-pointer"
