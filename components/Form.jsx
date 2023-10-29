@@ -5,10 +5,15 @@ const Form = ({ type, post, setPost, submitting, handleSubmit }) => {
   const [tagsCountMessage, setTagsCountMessage] = useState(null); // State for the message
 
   // Count the number of tags
-  const tagsCount = post.tag
-    .split(",")
-    .map((tag) => tag.trim())
-    .filter(Boolean).length;
+  var tagsCount;
+  try {
+    tagsCount = post.tag
+      .split(",")
+      .map((tag) => tag.trim())
+      .filter(Boolean).length;
+  } catch {
+    tagsCount = 0;
+  }
 
   const handleTagChange = (e) => {
     const newTagsCount = e.target.value
