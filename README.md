@@ -13,7 +13,7 @@ Discover and share AI-powered prompts with Promptium.
 
 ## Introduction
 
-Promptopia is an open-source AI prompting tool designed for the modern world. It allows users to discover, create, and share creative prompts powered by artificial intelligence. Whether you are a writer, developer, or anyone seeking creative inspiration, Promptopia is here to inspire your imagination.
+Promptium is an open-source AI prompting tool designed for the modern world. It allows users to discover, create, and share creative prompts. Whether you are a writer, developer, or anyone seeking creative inspiration, Promptium is here to inspire your imagination.
 
 ## Features
 
