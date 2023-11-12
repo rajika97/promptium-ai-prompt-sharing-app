@@ -15,6 +15,8 @@ Discover and share AI-powered prompts with Promptium.
 
 Promptium is an open-source AI prompting tool designed for the modern world. It allows users to discover, create, and share creative prompts. Whether you are a writer, developer, or anyone seeking creative inspiration, Promptium is here to inspire your imagination.
 
+You can check the deployed project here: [https://promptium.rajika.pro](https://promptium.rajika.pro).
+
 ## Features
 
 - Create and share AI-generated prompts.
